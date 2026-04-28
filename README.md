@@ -19,6 +19,4 @@ This Cairo Bootcamp is designed to:
 .
 ├── cairo_programs/ # Pure Cairo programs (stateless logic)
 ├── starknet_contracts/ # Smart contracts (stateful logic)
-├── exercises/ # Practice tasks and assignments
-├── notes/ # Learning notes (felt, syntax, etc.)
 └── README.md
