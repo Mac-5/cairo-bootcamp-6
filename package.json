@@ -1,0 +1,19 @@
+{
+  "name": "@starknet-agentic/transfer-agent",
+  "version": "1.0.0",
+  "description": "Autonomous transfer agent for Starknet",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "starknet": "^9.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
